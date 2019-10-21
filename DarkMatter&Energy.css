@@ -1,0 +1,77 @@
+/* This is my css */
+
+body 
+{
+	background-color: black;
+	background-image: url("Space-Background.jpg");
+	background-size: 2250px 1500px;
+}
+h1 
+{
+	color: dodgerblue;
+	font-family: Georgia;
+	font-size:75px;
+	text-align: center;
+}
+h2 
+{
+	color: dodgerblue;
+	font-family: cursive;
+	font-size:40px;
+	text-align: center;
+}
+h3 
+{
+	color: dodgerblue;
+	font-family: Cursive;
+	font-size:20px;
+	text-align: center;
+
+}
+
+p 
+{
+	color: lavender;
+	font-family: monospace;
+	font-size:23px;
+}
+	ul 
+	{
+	color: lavender;
+	font-family: monospace;
+	font-size:15px;
+	text-align: center;
+	list-style-type: none;
+	padding-left: 10px;
+}
+table, th, td
+{
+	color: lavender;
+	font-family: monospace;
+	font-size:15px;
+	border: 1px solid dodgerblue;
+	text-align: center;
+	padding: 15px;
+}
+a
+{
+	color: dodgerblue;
+	font-family: monospace;
+	font-size:15px;
+
+}
+.NavBarContainer 
+{
+	text-align: center;
+}
+.NavBar
+{
+	width: 300px;
+	background-color: lavender;
+	border: 10px solid skyblue;
+	display:inline-block;
+}
+#Name {
+	text-align: center;
+	
+}

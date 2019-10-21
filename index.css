@@ -1,0 +1,71 @@
+/* This is my css */
+
+
+body
+{
+	background-color: black;
+	background-image: url("SpaceBackground.jpg");
+	background-size: 1920px 1080px;
+}
+h1 
+{
+	color: Red;
+	font-family: courier;
+	font-size: 100px;
+	Margin-right: 100px;
+	Margin-left: 100px;
+	Text-align: center;
+}
+ul 
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: orange;
+	border: 1px solid #555;
+	Text-align: center;
+	margin: 0 auto;
+}
+
+li a 
+{
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+	Text-align: center;
+	margin: 0 auto;
+}
+
+li 
+{
+	text-align: center;
+	border-bottom: 1px solid #555;
+	Text-align: center;
+	margin: 0 auto;
+}
+
+li:last-child 
+{
+	border-bottom: none;
+	Text-align: center;
+	margin: 0 auto;
+}
+
+li a.active 
+{
+	background-color: #4CAF50;
+	color: white;
+	Text-align: center;
+	margin: 0 auto;
+}
+
+li a:hover:not(.active) 
+{
+	background-color: #555;
+	color: white;
+	Text-align: center;
+	margin: 0 auto;
+}
+

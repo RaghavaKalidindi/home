@@ -1,0 +1,92 @@
+/* This is my css */
+
+
+body 
+{
+	background-color: black;
+	background-image: url("CoolBackground.jpg");
+	background-size: 1920px 1080px; 
+}
+h1 
+{
+	color: mediumorchid;
+	font-family: Georgia;
+	font-size:50px;
+	text-align: center;
+}
+h2 
+{
+	color: purple;
+	font-family: cursive;
+	font-size:25px;
+	text-align: center;
+}
+  h3 
+{
+	color: skyblue;
+	font-family: Cursive;
+	font-size:20px;
+	text-align: center;
+
+}
+
+p 
+{
+	color: lavender;
+	font-family: monospace;
+	font-size:15px;
+}
+ul 
+{
+	color: lavender;
+	font-family: monospace;
+	font-size:15px;
+	text-align: center;
+	list-style-type: none;
+	padding-left: 10px;
+}
+ol
+{
+	color: lavender;
+	font-family: monospace;
+	font-size:15px;
+	text-align: center;
+	padding-left: 10px;
+
+}
+table, th, td
+{
+	color: lavender;
+	font-family: monospace;
+	font-size:15px;
+	border: 1px solid dodgerblue;
+	text-align: center;
+	padding: 15px;
+}
+a
+{
+	color: dodgerblue;
+	font-family: monospace;
+	font-size:15px;
+
+}
+.NavBarContainer 
+{
+	text-align: center;
+}
+.NavBar
+{
+	width: 300px;
+	background-color: lavender;
+	border: 10px solid plum;
+	display:inline-block;
+}
+.Pic 
+{
+	text-align: center;
+}
+#Name 
+{
+	text-align: center;
+	
+}
